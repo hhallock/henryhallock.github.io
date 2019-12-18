@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Henry L. Hallock, Ph.D.
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
+logo: 
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
-  avatar: bio-photo.jpg
+  name: Henry L. Hallock, Ph.D.
+  avatar: http://griffinlab.psych.udel.edu/images/people/henryHallock_200x200.jpg
   bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  email: henry.hallock@libd.org
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: henry_hallock
+  linkedin: henry-hallock-226b6148
+  github: henryhallock
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 
   facebook: #username
   instagram: #username
   bing-verify:
