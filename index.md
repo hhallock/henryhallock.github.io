@@ -3,10 +3,4 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
-
-## Current Interests and Projects:
-
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+# I am currently a postdoctoral fellow in the lab of [Keri Martinowich](http://neuroscience.jhu.edu/research/faculty/56) at [The Lieber Institute for Brain Development](www.libd.org) at The Johns Hopkins Medical Campus. I am broadly interested in how neural circuits (groups of neurons that communicate with each other) regulate learning, memory, and decision making. I take a holistic approach to this research by using techniques that measure neuronal activity at the population level to infer how these circuits represent behavior (e.g., calcium imaging, electrophysiology). I also use techniques that measure gene expression to understand which molecules are active within these circuits during behavior (e.g., single-molecule _in situ_ hybridization, RNA-sequencing). My aim is to discover patterns of activity that can be used to understand how neural circuits drive learning and memory-guided behavior in the normal brain, and use this information to identify novel biomarkers for the diagnosis and treatment of learning and memory-associated symptoms in patients with neuropsychiatric disorders such as schizophrenia, post-traumatic stress disorder, and generalized anxiety disorder.
