@@ -3,6 +3,9 @@ layout: page
 title: Research
 ---
 <br>
+<div style="text-align:center"><img src="/Circuit_Manipulation.jpg" width="500"></div><br>
+<div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Manipulation of behaviorally-relevant neural circuits</u></i><br><br>
+I use viral targeting and expression of proteins such as DREADD receptors and opsins to causally link projection-specific circuits with distinct aspects of learning, memory, and decision making (e.g., hippocampal neurons with projections to the prefrontal cortex with emotional memory recall in the above image).</span></div><br>
 <div style="text-align:center"><video width="150" autoplay loop muted><source src="/ca_imaging_final.mp4" type="video/mp4"></video><img src="/image.png" width="500"></div><br>
 <div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Characterizing behaviorally-specific patterns of neuronal activity during learning and memory</u></i><br><br>
 I use <i>in vivo</i> calcium imaging and electrophysiology to observe activity in large populations of neurons in behaving animals, and relate activity to meaningful behavior during tasks designed to probe learning and memory (see above image of calcium activity in a population of prefrontal cortex neurons from one animal; calcium activity during memory-specific behavior (freezing) changes as a function of whether the animal is forming, recalling, or extinguishing a memory).</span></div><br>
