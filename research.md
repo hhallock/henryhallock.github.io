@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 <br>
-<div style="text-align:center"><img src="/Circuit_Manipulation.jpg" width="600" height="160"></div><br>
+<div style="text-align:center"><img src="/Circuit_Manipulation.jpg" width="600" height="140"></div><br>
 <div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Manipulation of behaviorally-relevant neural circuits</u></i><br><br>
 I use viral targeting and expression of proteins such as DREADD receptors and opsins to causally link projection-specific circuits with distinct aspects of learning, memory, and decision making (e.g., hippocampal neurons with projections to the prefrontal cortex with emotional memory recall in the above image).</span></div><br>
 <div style="text-align:center"><video width="150" autoplay loop muted><source src="/ca_imaging_final.mp4" type="video/mp4"></video><img src="/image.png" width="500"></div><br>
