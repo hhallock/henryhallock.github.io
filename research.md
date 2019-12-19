@@ -15,7 +15,7 @@ I use <i>in vivo</i> calcium imaging to observe activity in large populations of
 <div style="text-align:center"><img src="/RNAscope.jpg" width="500"></div><br>
 <div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Identification of molecular regulators of circuit function during behavior</u></i><br><br>
 I use viral circuit tracing in combination with tools like single-molecule <i>in situ</i> hybridization and RNA-sequencing to identify patterns of activity-dependent gene expression in specific circuits (<i>tdTomato</i>-expressing hippocampal-to-prefrontal projection neurons in the above image) following behavior.</span></div><br>
-<div style="text-align:center"><img src="/HA_FLEX.jpg" width="500"></div><br>
+<div style="text-align:center"><img src="/HA_FLEX.jpg" width="400"></div><br>
 <div style="text-align:center"><span style="font-family: 'Arial';"><i><u>Manipulation of molecular regulators within relevant circuits to affect behavior</u></i><br><br>
 I use viral targeting approaches to disrupt expression and/or over-express specific molecules within neural circuits to understand how these molecules causally contribute to learning and memory-guided behavior (above image shows that over-expression of brain-derived neurotrophic factor (BDNF) in hippocampal-to-prefrontal projection neurons restores aberrant emotional memory retrieval in a special type of mutant mouse).</span></div><br> 
 
